@@ -10,6 +10,7 @@
 	font-family: Poppins;
 	list-style: none;
 	background-color: #2D4263;
+	text-decoration: none;
 }
 
 .container{
@@ -60,12 +61,14 @@ h3{
 	margin: 0;
 }
 
-.frontend ul li{
+.project-names {
 	padding-left: 10px;
 	background-color: #9ED2C6;
 	cursor: pointer;
+	display: block;
+	color: black;
 }
 
-li:hover{
+.project-names:hover{
 	opacity: 0.90;
 }
