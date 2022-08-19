@@ -1,0 +1,42 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.container{
+	text-align: center;
+	font-size: 50px;
+}
+
+.btn{		
+	height: 50px;
+	width: 100px;
+	margin: 40px 20px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 20px;
+	cursor: pointer;
+	border: 1px solid grey;
+}
+
+.digit{
+	background-color: orange;
+	font-size: 2em;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+#start{
+	background-color: lightgreen;
+}
+
+#stop{
+	background-color: orangered;
+}
+
+#reset{
+	background-color: lightblue;
+}
+

@@ -59,6 +59,8 @@ h3{
 	background-color: #54BAB9;
 	padding: 5px;
 	margin: 0;
+	position: sticky;
+	top: 0;
 }
 
 .project-names {

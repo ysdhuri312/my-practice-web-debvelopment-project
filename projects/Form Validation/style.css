@@ -1,0 +1,27 @@
+body{
+	background-color: lightgreen;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+#container{
+	background-color: whitesmoke;
+    padding: 80px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+input{
+	padding: 10px 20px;
+	margin: 10px;
+}
+
+.error{
+	margin: 0;
+	text-align: left;
+	margin-left: 10px;
+	color: red;
+	
+}

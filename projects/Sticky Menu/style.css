@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+}
+
+.header{
+	text-align: center;
+}
+
+img{
+	width: 500px;
+	height: auto;
+	border-radius: 50%;
+	padding:  30px;
+}
+
+#navbar{
+	background-color: lightblue;
+	padding: 20px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+a{
+	text-decoration: none;
+	padding: 10px;
+	color: white;	
+}
+
+p{
+	padding: 10px 100px;
+	text-align: justify;
+}
+
+.sticky{
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
